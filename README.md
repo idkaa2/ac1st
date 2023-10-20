@@ -11,3 +11,5 @@ Abbie
 Bye
 Hello one more time
 Hey beef rice beef
+Hey
+chix rice
